@@ -1,0 +1,19 @@
+{
+	"name": "static-site-gulp-template",
+	"version": "1.0.0",
+	"description": "Template repo for the project",
+	"main": "index.js",
+	"author": "Mauricio Paternina",
+	"license": "MIT",
+	"devDependencies": {
+		"autoprefixer": "^10.0.1",
+		"browser-sync": "^2.26.13",
+		"cssnano": "^4.1.10",
+		"gulp": "^4.0.2",
+		"gulp-cache-bust": "^1.4.1",
+		"gulp-postcss": "^9.0.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-terser": "^1.4.1",
+		"postcss": "^8.1.6"
+	}
+}
